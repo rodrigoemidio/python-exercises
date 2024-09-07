@@ -1,0 +1,7 @@
+v1=float(input('Insira o primeiro valor:'))
+v2=float(input('Insira o segundo valor:'))
+print('Soma:', v1, '+', v2, '=', v1+v2)
+print('Subtração:', v1, '-', v2, '=', v1-v2)
+print('Multiplicação:', v1, '*', v2, '=', v1*v2)
+print('Divisão:', v1, '/', v2, '=', v1/v2)
+print('Resto da divisão: ', v1%v2)
